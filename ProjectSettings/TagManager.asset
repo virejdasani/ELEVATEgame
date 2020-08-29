@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - FinishLine
   - DeathPlatform
+  - FinishFlag
   layers:
   - Default
   - TransparentFX

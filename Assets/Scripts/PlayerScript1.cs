@@ -47,16 +47,12 @@ public class PlayerScript1 : MonoBehaviour
             SceneManager.LoadScene("Dead1");
             
         }
-        else if(collision.tag == "FinishLine")
+        else if(collision.tag == "FinishFlag")
         {
             SceneManager.LoadScene("Win0");
         }
-        else if(collision.tag == "DeathPlatform")
-        {
-            Destroy(gameObject);
-            dead();
-            SceneManager.LoadScene("Dead1");
-        }
+
+        
 
     }
 }
