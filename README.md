@@ -1,6 +1,6 @@
 # ELEVATE
 
-A 2D MINI-GAME with 4 Levels, made using Unity!
+My first 2D MINI-GAME, made using Unity!
 
 ---
 
