@@ -1,5 +1,5 @@
 # ELEVATE
 
-My first 2D MINI-GAME, made using Unity!
+I'm pretty sure this is the first unity game I ever made!
 
----
+Thanks Brackeys <3
